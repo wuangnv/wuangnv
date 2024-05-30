@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌱 I’m currently learning DevOps!
+
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6658b240b998f3b3c7f3f0b8?variant=light&roadmaps=devops" alt="roadmap.sh"/></a>
